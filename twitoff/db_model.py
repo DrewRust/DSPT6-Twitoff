@@ -1,3 +1,4 @@
+#### FLASK_APP=twitoff flask run
 '''SQLAlchemy models for Twitoff'''
 from flask_sqlalchemy import SQLAlchemy
 

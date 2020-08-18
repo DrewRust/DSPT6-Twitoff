@@ -1,3 +1,4 @@
+#### FLASK_APP=twitoff flask run
 from os import getenv
 from flask import Flask, render_template, request
 from dotenv import load_dotenv
